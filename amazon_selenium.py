@@ -149,6 +149,8 @@ if __name__ == '__main__':
 
     base_url = 'https://www.amazon.com/'
     time_interval = 1
-    search_query = 'Black'
+    search_query = 'Red Keyboards'
     max_tries = 20
     AmazonScraper(time_interval,base_url,search_query,max_tries)
+
+    
